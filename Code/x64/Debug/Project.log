@@ -1,0 +1,22 @@
+﻿  FormEvent.cpp
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\Event\FormEvent.cpp(29,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MarsStation.cpp
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\MarsStation\MarsStation.cpp(67,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\MarsStation\MarsStation.cpp(68,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\MarsStation\MarsStation.cpp(81,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\MarsStation\MarsStation.cpp(82,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\MarsStation\MarsStation.cpp(100,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\MarsStation\MarsStation.cpp(101,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Mission.cpp
+  Rover.cpp
+  Source.cpp
+  UI.cpp
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\UI\UI.cpp(160,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\UI\UI.cpp(161,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\UI\UI.cpp(242,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\UI\UI.cpp(243,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\UI\UI.cpp(315,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\UI\UI.cpp(327,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\UI\UI.cpp(336,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Project.vcxproj -> D:\Ahmed Ameen\data structure\Project\1-4_T06\Code\x64\Debug\Project.exe
